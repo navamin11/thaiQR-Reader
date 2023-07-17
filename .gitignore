@@ -1,4 +1,5 @@
 # exclude everything
 bin/*
 
-# exception to the rule
+# exception to the rule\
+!bin/.gitkeep
