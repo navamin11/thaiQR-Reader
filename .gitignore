@@ -1,0 +1,4 @@
+# exclude everything
+bin/*
+
+# exception to the rule
