@@ -32,10 +32,10 @@ Note : After build, Please check binary file to bin
 
 ### Dowload Application
 * **For Windows**
-https://drive.google.com/file/d/1D8J1FdNt6UhQtxxWh94Jy5o8_Fc0yDuy/view?usp=sharing
+https://rb.gy/hmff2
 
 * **For Mac**
-https://drive.google.com/file/d/1mAK8vcs5RT5Is3cdJGX115ghU_3hVhmr/view?usp=drive_link
+https://rb.gy/rv7mb
 
 * **For Linux**
-https://drive.google.com/file/d/1mAK8vcs5RT5Is3cdJGX115ghU_3hVhmr/view?usp=drive_link
+https://rb.gy/uvbj9
