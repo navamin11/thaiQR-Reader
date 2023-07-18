@@ -64,9 +64,9 @@ func MerchantIdentifierPromptPayTag30(s string) string {
 func checkAIDTag30(code string) string {
 	var des string
 	switch code {
-	case "A000000677010112":
+	case "A000000677010112", "a000000677010112":
 		des = "domestic merchant"
-	case "A000000677012006":
+	case "A000000677012006", "a000000677012006":
 		des = "cross-border merchant"
 	default:
 		des = "Unknow"
