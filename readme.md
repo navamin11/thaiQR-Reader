@@ -31,11 +31,4 @@ Note : After build, Please check binary file to bin
 <p align="center"><img src="pic/tag31.jpg" alt="tag31 Preview"/></p>
 
 ### Dowload Application
-* **For Windows**
-https://rb.gy/hmff2
-
-* **For Mac**
-https://rb.gy/rv7mb
-
-* **For Linux**
-https://rb.gy/uvbj9
+https://bit.ly/3Djzjzu
