@@ -40,9 +40,9 @@ func MerchantIdentifierPromptPayTag29(s string) string {
 func checkAIDTag29(code string) string {
 	var des string
 	switch code {
-	case "A000000677010111":
+	case "A000000677010111", "a000000677010111":
 		des = "merchant-presented QR"
-	case "A000000677010114":
+	case "A000000677010114", "a000000677010114":
 		des = "customer-presented QR"
 	default:
 		des = "Unknow"
