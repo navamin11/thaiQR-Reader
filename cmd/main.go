@@ -25,8 +25,8 @@ func YesNoPrompt(label string, def bool) (string, bool) {
 		if s == "" {
 			return s, def
 		}
-		s = strings.ToLower(s)
-		if s == "n" || s == "no" {
+
+		if s == "n" || s == "no" || s == "N" || s == "No" {
 			return s, true
 		} else {
 			return s, false
